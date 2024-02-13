@@ -1,6 +1,3 @@
-
-# Friday_Voice_Assistant
-
 # Friday Voice Assistant
 
 ## Overview
